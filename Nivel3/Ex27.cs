@@ -6,17 +6,15 @@ namespace Nivel3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite quantos, numeros quer saber o Fatorial \n");
-            int i = int.Parse(Console.ReadLine());
-            int[] num = new int[i];                                   
-            while(i > -1)
-            {
+            int numQuant;
 
-            }
-            foreach (int numeros in num)
+            do
             {
-
-            }
+                Console.WriteLine("Digite quantos, números quer saber o Fatorial \n *Obs: tem que ser no mínimo 1!");
+                numQuant = int.Parse(Console.ReadLine());
+            } while (numQuant < 1);
+              
+           
         }
     }
 }
