@@ -4,7 +4,7 @@ namespace Nivel3
 {
     class Ex30
     {
-        static void Main(string[] args)
+        static void Main30(string[] args)
         {
             for (int i = 1; i <= 10; i++)
             {
