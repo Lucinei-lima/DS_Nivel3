@@ -2,11 +2,11 @@
 
 namespace Nivel3
 {
-    class Ex26
+    class Ex29
     {
-        static void Main26(string[] args)
+        static void Main29(string[] args)
         {
-            for (int i = 100; i >= 1; i--)
+            for (int i = 1; i <= 2000; i++)
             {
                 Console.WriteLine(i);
             }

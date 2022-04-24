@@ -4,10 +4,10 @@ namespace Nivel3
 {
     class Ex27
     {
-        static void Main(string[] args)
+        static void Main27(string[] args)
         {
             int numQuant, numDig;
-            
+
             //para saber quantos de quantos numeros sera calculado o fatorial.
             //Do While para ter serteza que sera pelo menos uma vez.
             do
@@ -27,11 +27,11 @@ namespace Nivel3
                     Console.WriteLine("Digite o número que quer saber o Fatorial \n *Obs: tem que ser positivo!");
                     numDig = int.Parse(Console.ReadLine());
                 } while (numDig < 0);
-                
+
                 //criação de um for para o recebimento e calculo dos fatoriais.
-                for(int e = numDig; e > 0; e--)
+                for (int e = numDig; e > 0; e--)
                 {
-                    fat[i] *= e; 
+                    fat[i] *= e;
                 }
             }
             foreach (int n in fat)
