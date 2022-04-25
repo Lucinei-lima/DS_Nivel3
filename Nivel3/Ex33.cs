@@ -8,7 +8,7 @@ namespace Nivel3
 {
     class Ex33
     {
-        static void Main(string[] args)
+        static void Main33(string[] args)
         {
             int media, cont = 0, soma = 0;
             List<Int32> MatrAlunos;
