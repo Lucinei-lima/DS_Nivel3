@@ -8,7 +8,7 @@ namespace Nivel3
 {
     class Ex31
     {
-        static void Main(string[] args)
+        static void Main31(string[] args)
         {
             int positivo = 0, negativo = 0, num = 0;
             while (num >= 0)
