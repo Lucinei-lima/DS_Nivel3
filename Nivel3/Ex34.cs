@@ -8,7 +8,7 @@ namespace Nivel3
 {
     class Ex34
     {
-        static void Main(string[] args)
+        static void Main34l(string[] args)
         {
             List<Int32> Num;
             Num = new List<Int32>();
