@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nei_s\\.nuget\\packages\\": {},
+    "C:\\Users\\delim\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nei_s\\source\\repos\\Nivel3\\Nivel3\\Nivel3.csproj",
+      "projectUniqueName": "C:\\Users\\delim\\Source\\Repos\\DS_Nivel3\\Nivel3\\Nivel3.csproj",
       "projectName": "Nivel3",
-      "projectPath": "C:\\Users\\nei_s\\source\\repos\\Nivel3\\Nivel3\\Nivel3.csproj",
-      "packagesPath": "C:\\Users\\nei_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nei_s\\source\\repos\\Nivel3\\Nivel3\\obj\\",
+      "projectPath": "C:\\Users\\delim\\Source\\Repos\\DS_Nivel3\\Nivel3\\Nivel3.csproj",
+      "packagesPath": "C:\\Users\\delim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\delim\\Source\\Repos\\DS_Nivel3\\Nivel3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nei_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\delim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
