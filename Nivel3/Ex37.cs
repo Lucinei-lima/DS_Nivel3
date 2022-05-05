@@ -8,5 +8,9 @@ namespace Nivel3
 {
     class Ex37
     {
+        static void Main(string[] args)
+        {
+
+        }
     }
 }

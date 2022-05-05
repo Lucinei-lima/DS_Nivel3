@@ -8,7 +8,7 @@ namespace Nivel3
 {
     class Ex36
     {
-        static void Main(string[] args)
+        static void Main36(string[] args)
         {
             List<Int32> NumPosit;
             NumPosit = new List<Int32>();
